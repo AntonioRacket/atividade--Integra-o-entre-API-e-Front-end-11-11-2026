@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffWQSvyFxI4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Unigran\\Documents\\poop2\\aula5\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Unigran\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Unigran\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512",
+    "C:\\Users\\Unigran\\.nuget\\packages\\swashbuckle.aspnetcore\\11.0.0\\swashbuckle.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\Unigran\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\11.0.0\\swashbuckle.aspnetcore.swagger.11.0.0.nupkg.sha512",
+    "C:\\Users\\Unigran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\11.0.0\\swashbuckle.aspnetcore.swaggergen.11.0.0.nupkg.sha512",
+    "C:\\Users\\Unigran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.0\\swashbuckle.aspnetcore.swaggerui.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

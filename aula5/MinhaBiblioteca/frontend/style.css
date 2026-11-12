@@ -1,0 +1,18 @@
+#mensagem {
+    position: sticky;
+    top: 0.5rem;
+    z-index: 10;
+    white-space: pre-line;
+}
+
+.numero {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.acoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    min-width: 15rem;
+}
